@@ -1,0 +1,41 @@
+.header {
+    margin-bottom: 15px;
+    background-color: orange;
+    padding-left: 15px;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.gameMenuSelection {
+    outline-color: black;
+    outline-width: 12px;
+    flex-direction: left;
+    text-align: center;
+    background-color: white;
+    color:black;
+    
+    align-items: center;
+    font-size: 12px;
+}
+.light-mode {
+    background-color: ghostwhite;
+    color: black;
+    }
+
+.dark-mode {
+    background-color: black;
+    color:ghostwhite;
+}
+
+.background-selection{
+    padding-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+}
+
+

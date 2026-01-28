@@ -1,0 +1,20 @@
+@import './Page.css';
+
+.game-Container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 20px;
+  outline: auto;
+  width: 750px;
+  height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.game-Container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
