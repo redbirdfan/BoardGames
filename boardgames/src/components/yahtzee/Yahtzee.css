@@ -18,14 +18,16 @@
     border-radius: 10px;
 }
 
-.score-containter{
-    align-self: flex-start;
-    margin-left: 10px;
-    outline: auto;
-    border: 2px solid black;
-    width: 20px;
-    height: 20px;
-    
+.score-container{
+  float: left;
+  width: 120px;
+  padding: 10px;  
+  p{
+    width:120px;
+  border: black 1px solid;
+  text-align: center; 
+  ;
+    }
 }
 
 .roll-dice {
@@ -35,3 +37,4 @@
     text-align: center;
     border-radius: 10px;
 }
+
