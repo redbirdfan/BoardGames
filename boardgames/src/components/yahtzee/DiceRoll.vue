@@ -24,4 +24,9 @@ const rollDice = () =>{
     <div class="roll-dice">
         <button @click='rollDice'>Roll Dice</button>
     </div>
+    
+    <div class="take-score">
+        <button>Take Score</button>
+    </div>
+
 </template>

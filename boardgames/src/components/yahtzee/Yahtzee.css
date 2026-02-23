@@ -34,7 +34,7 @@
 }
 
 .roll-dice {
-    margin-left: 210px;
+    margin-left: 294px;
     border: black 3px solid;
     background-color: whitesmoke;
     width: 85px;
@@ -43,8 +43,8 @@
 }
 
 .take-score {
-
-    margin-left: 275px;
+    margin-top: 10px;
+    margin-left: 295px;
     border: black 3px solid;
     background-color: whitesmoke;
     width: 85px;
